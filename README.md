@@ -1,6 +1,6 @@
 # Portfolio
 
-##Astralia
+## Astralia
 
-####School project in collaboration with AvantGarden
+#### School project in collaboration with AvantGarden
 ####
