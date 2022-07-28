@@ -1,6 +1,6 @@
 # Portfolio
 
-<li a href = "https://github.com/MarcoBalletta/Astralia">Astralia</li>
+<li href = "https://github.com/MarcoBalletta/Astralia">Astralia</li>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
