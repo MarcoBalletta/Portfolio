@@ -5,5 +5,5 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<li><a href = "https://github.com/MarcoBalletta/GastroJam">Gastro Jam</a></li>
+<li><a href = "https://github.com/MarcoBalletta/Gastro-Jam">Gastro Jam</a></li>
 
