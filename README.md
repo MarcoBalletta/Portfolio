@@ -11,4 +11,4 @@
 
 ## Personal projects
 
-<li><a href = (https://github.com/MarcoBalletta/CommandPatternTest)>Gastro Jam</a></li>
+<li><a href = (https://github.com/MarcoBalletta/CommandPatternTest)>Command Pattern Exercise</a></li>
