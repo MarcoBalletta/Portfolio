@@ -11,4 +11,4 @@
 
 ## Personal projects
 
-<li><a href = "https://github.com/MarcoBalletta/CommandPatternTest">Command Pattern Exercise</a></li>
+<li><a href = "https://github.com/MarcoBalletta/CommandPatternTest">2D Command Pattern Exercise</a></li>
