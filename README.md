@@ -15,3 +15,7 @@
 ----------------
 
 <li><a href = "https://github.com/MarcoBalletta/MiniShootingBasketball">Basketball mini shooting race</a></li>
+
+----------------
+
+<li><a href = "https://github.com/MarcoBalletta/StrategicGame">Strategic Game</a></li>
