@@ -26,6 +26,10 @@
 
 ----------------
 
-<li><a href = "https://github.com/MarcoBalletta/CommandPatternTest">UI Manager template</a></li>
+<li><a href = "https://github.com/MarcoBalletta/StateTemplate">State template</a></li>
+
+----------------
+
+<li><a href = "https://github.com/MarcoBalletta/StateTemplate">UI Manager template</a></li>
 
 ----------------
