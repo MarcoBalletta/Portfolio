@@ -22,7 +22,7 @@
 
 ----------------
 
-<li><a href = "https://github.com/MarcoBalletta/CommandPatternTest">Singleton pattern</a></li>
+<li><a href = "https://github.com/MarcoBalletta/SingletonTemplate">Singleton pattern</a></li>
 
 ----------------
 
