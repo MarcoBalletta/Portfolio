@@ -16,6 +16,10 @@
 
 <li><a href = "https://github.com/MarcoBalletta/StrategicGame">Strategic Game</a></li>
 
+----------------
+
+<li><a href = "https://github.com/MarcoBalletta/RTS-test">RTS Game</a></li>
+
 ## Templates
 
 <li><a href = "https://github.com/MarcoBalletta/CommandPatternTest">2D Command Pattern Exercise</a></li>
