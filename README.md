@@ -37,3 +37,7 @@
 <li><a href = "https://github.com/MarcoBalletta/UITemplate">UI Manager template</a></li>
 
 ----------------
+
+<li><a href = "https://github.com/MarcoBalletta/UITemplate">A* test</a></li>
+
+----------------
