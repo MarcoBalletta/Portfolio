@@ -20,6 +20,14 @@
 
 <li><a href = "https://github.com/MarcoBalletta/RTS-test">RTS Game</a></li>
 
+----------------
+
+<li><a href = "https://github.com/MarcoBalletta/BoidsTest">Boids</a></li>
+
+----------------
+
+<li><a href = "https://github.com/MarcoBalletta/AStar">A* test</a></li>
+
 ## Templates
 
 <li><a href = "https://github.com/MarcoBalletta/CommandPatternTest">2D Command Pattern Exercise</a></li>
@@ -47,13 +55,5 @@
 ----------------
 
 <li><a href = "https://github.com/MarcoBalletta/UITemplate">UI Manager template</a></li>
-
-----------------
-
-<li><a href = "https://github.com/MarcoBalletta/AStar">A* test</a></li>
-
-----------------
-
-<li><a href = "https://github.com/MarcoBalletta/BoidsTest">Boids</a></li>
 
 ----------------
