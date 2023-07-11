@@ -50,7 +50,7 @@
 
 ----------------
 
-<li><a href = "https://github.com/MarcoBalletta/A-star-test">A* test</a></li>
+<li><a href = "https://github.com/MarcoBalletta/AStar">A* test</a></li>
 
 ----------------
 
