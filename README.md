@@ -30,7 +30,19 @@
 
 ----------------
 
+<li><a href = "https://github.com/MarcoBalletta/ObserverPatternEnemies">Observer pattern</a></li>
+
+----------------
+
 <li><a href = "https://github.com/MarcoBalletta/StateTemplate">State template</a></li>
+
+----------------
+
+<li><a href = "https://github.com/MarcoBalletta/StateTemplate">Grid template WIP</a></li>
+
+----------------
+
+<li><a href = "https://github.com/MarcoBalletta/Serialization05.07">Serialization</a></li>
 
 ----------------
 
@@ -39,5 +51,9 @@
 ----------------
 
 <li><a href = "https://github.com/MarcoBalletta/A-star-test">A* test</a></li>
+
+----------------
+
+<li><a href = "https://github.com/MarcoBalletta/BoidsTest">Boids</a></li>
 
 ----------------
